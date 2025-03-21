@@ -19,7 +19,7 @@ To run this project, you'll need the following dependencies installed. It is rec
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/soilailab/soil-spectroscopy-fl.git
+git clone https://github.com/soilailab/federated-learning.git
 cd soil-spectroscopy-fl
 ```
 
